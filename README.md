@@ -1,5 +1,7 @@
 # Étude balistique d'un bloc de glace projeté des pales d'une éolienne
 
+### Romain BROCHETON
+
 Après une prise de contact auprès d'un ingénieur de GRTGaz et une visite de leurs locaux, le projet d'une étude balistique d'un bloc de glace projeté d'une éolienne m'a été confié. Il s'agissait d'étudier si un bloc de glace pouvait tomber sur une canalisation de gaz, et s'il pouvait la percer. Ce projet s'inscrit parfaitement dans le cadre du thème de l'année 2017-2018 : "Milieux". En effet, l'étude finale doit conclure quant à la rupture de la canalisation de gaz lorsque le bloc de glace percute et rentre en interaction avec elle.
 
 ## Positionnement thématique
